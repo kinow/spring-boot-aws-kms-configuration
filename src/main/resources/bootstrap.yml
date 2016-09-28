@@ -1,0 +1,5 @@
+aws:
+    region: eu-west-1
+    kms:
+        keyId: yourkeyid
+        enabled: true
